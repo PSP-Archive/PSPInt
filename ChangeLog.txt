@@ -1,0 +1,56 @@
+1.1.0
+
+- Compatible with custom 3.x firmwares (and i hope with psp slim)
+- Add Intro Splash screen  
+- Support iso8859-1 fonts in print text functions
+  (might be useful to translate menus in german, french ...)
+- Bug fix in file requester
+
+1.0.9
+
+- Bug fix in Rom file requester 
+  (PSP hangs when the rom list was big and already sorted)
+- Add help menu
+- Screenshots are now saved in PNG format
+
+1.0.8
+
+- Bug fix
+
+1.0.7
+
+- Emulator menus reorganisation (new menu for settings)
+- Icons and background images modification 
+- The percent of battery left is now displayed in the emulator window
+- Add a watchdog to automatically return to the emulator menu
+  when  the battery is very low (< 5%)
+- New feature to save and load a distinct setting file for each games
+- Delete files option (in the file selector)
+
+1.0.6
+
+- Add keyboard change skin option
+- Add different keyboard kins from DrNicket
+
+1.0.5
+
+- New virtual keyboard (by DrNicket)
+
+1.0.4
+
+- Second joystick support
+- Add keys to the virtual keyboard
+- Option to toggle between players
+
+1.0.3
+
+- Fix bug in colors
+
+1.0.2
+
+- Add .int and .itv as valid extention for rom files
+- Add exit menu
+
+1.0.1
+
+- Intial release

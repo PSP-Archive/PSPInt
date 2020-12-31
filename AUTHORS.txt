@@ -1,0 +1,7 @@
+Jzintv : Emulator of the Intellivision videogame system
+
+  Joe Zbiciak (see http://spatula-city.org/~im14u2c/intv/)
+
+PSPInt : Porting on PSP
+
+  Ludovic Jacomme (zx81.zx81@gmail.com)
